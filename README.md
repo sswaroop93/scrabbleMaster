@@ -4,6 +4,8 @@ scrabbleMaster
 
 It reads a set of words from a file and outouts the highest scoring word that is present in the sowpods dictionary.
 
+For 7 tiles (letters), it forms words using the specifies 7 letter or less. For 6 given tiles and an empty one, it may use an arbitary letter with zero score.
+
 Flow of the code:
 -----------------------
 
